@@ -1,8 +1,8 @@
-# Hi there, I'm Denis Keller! 👋
+# Привет, мменя зовут Денис Келлер!
 
-### Frontend Engineer with 8+ years of commercial experience 🚀
+### Frontend-разработчик с 8+ годами коммерческого опыта
 
-Middle Frontend-разработчик, специализирующийся на создании масштабируемых SPA/SSR приложений. Обладаю глубокой экспертизой в экосистемах **React** и **Vue**, а также опытом проектирования Fullstack-решений (Laravel + MySQL). Focus на чистой архитектуре, высокой производительности интерфейсов и сложной интерактивной анимации.
+Я Middle Frontend-разработчик, специализирующийся на создании масштабируемых SPA приложений. Обладаю глубокой экспертизой в экосистемах **React** и **Vue**, а также опытом проектирования Fullstack-решений (Laravel + MySQL). Focus на чистой архитектуре, высокой производительности интерфейсов и сложной интерактивной анимации.
 
 ---
 
@@ -21,26 +21,15 @@ Middle Frontend-разработчик, специализирующийся н�
 
 ## 💼 Key Projects & Experience
 
-*   **⚡ [dk-ui](https://github.com)** — Моя собственная кастомная библиотека UI-компонентов на React & TypeScript, ускоряющая разработку интерфейсов на 30%.
-*   **🦷 CRM 32Teeth** — Проектирование и Fullstack-разработка сложной CRM-системы для стоматологических клиник с нуля (Vue.js + Laravel + MySQL).
+*   **⚡ [dk-ui](https://my-custom-components-library.vercel.app/components)** — Моя собственная кастомная библиотека UI-компонентов на React & TypeScript, ускоряющая разработку интерфейсов на 30%.
+*   **🦷 [CRM 32Teeth](https://crm32teeth.ru/)** — Проектирование и Fullstack-разработка сложной CRM-системы для стоматологических клиник с нуля (Vue.js + Laravel + MySQL).
 *   **🌐 Commercial Dashboards & Fintech** — Разработка сложных аналитических панелей, дашбордов и CRM (Next.js, TypeScript, Redux-Toolkit): *Cloudladz, Aqatin, Manisland, Azure Processing*.
 *   **🩺 Medical Tech & E-commerce** — Разработка клиентской части медицинских платформ и e-commerce проектов (React/Vue + TS): *Uro-lasers, Darvin Jewelry*.
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Denis's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Langs" height="150" />
-</p>
 
 ---
 
 ## 📫 Connect with me
 
 *   🌍 **Portfolio Website:** [deniskellerdev.vercel.app](https://deniskellerdev.vercel.app/)
-*   ✈️ **Telegram:** [@localhost420](https://t.me)
+*   ✈️ **Telegram:** [@localhost420](@localhost420)
 *   📧 **Email:** [dentean@mail.ru](mailto:dentean@mail.ru)
-
-*Open for full-time roles, contract work, and interesting side-projects!*
