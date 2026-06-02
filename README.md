@@ -29,7 +29,7 @@
 
 ## 💼 Ключевые проекты
 
-*   **⚡ [dk-ui](https://vercel.app)** — Моя собственная кастомная библиотека UI-компонентов на React & TypeScript, ускоряющая разработку интерфейсов на 30%.
+*   **⚡ [dk-ui](https://my-custom-components-library.vercel.app/components)** — Моя собственная кастомная библиотека UI-компонентов на React & TypeScript, ускоряющая разработку интерфейсов на 30%.
 *   **🦷 [CRM 32Teeth](https://crm32teeth.ru)** — Проектирование и Fullstack-разработка сложной CRM-системы для стоматологических клиник с нуля (Vue.js + Laravel + MySQL).
 *   **🌐 Commercial Dashboards & Fintech** — Разработка сложных аналитических панелей, дашбордов и CRM (Next.js, TypeScript, Redux-Toolkit): [Blvc](https://blvc.club), [Manisland](https://manisland.com), [kdprojects](https://kdprojects.ru).
 *   **🩺 Medical Tech & E-commerce** — Разработка клиентской части медицинских платформ и e-commerce проектов (React/Vue + TS): [Uro-lasers](https://uro-lasers.ru), [Darvin Jewelry](https://jsdarvin.com).
@@ -63,7 +63,7 @@ I also have practical Fullstack experience (**Laravel + MySQL**), which allows m
 
 ## 💼 Key Projects & Experience
 
-*   **⚡ [dk-ui](https://vercel.app)** — My custom React & TypeScript UI component library designed to speed up interface development by 30%.
+*   **⚡ [dk-ui](https://my-custom-components-library.vercel.app/components)** — My custom React & TypeScript UI component library designed to speed up interface development by 30%.
 *   **🦷 [CRM 32Teeth](https://crm32teeth.ru)** — End-to-end design and Fullstack development of a comprehensive CRM system for dental clinics from scratch (Vue.js + Laravel + MySQL).
 *   **🌐 Commercial Dashboards & Fintech** — Building analytical panels, modern dashboards, and internal CRMs (Next.js, TypeScript, Redux Toolkit): [Blvc](https://blvc.club), [Manisland](https://manisland.com), [kdprojects](https://kdprojects.ru).
 *   **🩺 Medical Tech & E-commerce** — Client-side development for medical platforms and e-commerce projects (React/Vue + TS): [Uro-lasers](https://uro-lasers.ru), [Darvin Jewelry](https://jsdarvin.com).
@@ -74,6 +74,6 @@ I also have practical Fullstack experience (**Laravel + MySQL**), which allows m
 
 ## 📫 Connect with me / Контакты
 
-*   🌍 **Portfolio Website:** [deniskellerdev.vercel.app](https://vercel.app)
-*   ✈️ **Telegram:** [@localhost420](https://t.me)
+*   🌍 **Portfolio Website:** [deniskellerdev.vercel.app](https://deniskellerdev.vercel.app/)
+*   ✈️ **Telegram:** [@localhost420](https://t.me/localhost420)
 *   📧 **Email:** [dentean@mail.ru](mailto:dentean@mail.ru)
